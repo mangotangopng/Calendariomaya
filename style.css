@@ -1,0 +1,42 @@
+body{
+    margin:0;
+    background:#f4efe6;
+    font-family:Georgia, serif;
+}
+
+.container{
+    max-width:800px;
+    margin:auto;
+    padding:40px;
+    text-align:center;
+}
+
+h1{
+    color:#5a3312;
+}
+
+input{
+    padding:10px;
+    font-size:18px;
+}
+
+button{
+    padding:12px 20px;
+    margin-left:10px;
+    cursor:pointer;
+}
+
+img{
+    width:300px;
+    max-width:100%;
+    border-radius:15px;
+    margin-top:20px;
+}
+
+#risultato{
+    margin-top:30px;
+}
+
+.hidden{
+    display:none;
+}
