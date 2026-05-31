@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scopri il tuo Nahual Maya</title>
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Scopri il tuo Nahual</h1>
+
+    <p>Inserisci la tua data di nascita</p>
+
+    <input type="date" id="birthdate">
+
+    <button onclick="trovaNahual()">
+        Calcola Nahual
+    </button>
+
+    <div id="risultato" class="hidden">
+
+        <h2 id="nome"></h2>
+
+        <img id="immagine">
+
+        <h3 id="animale"></h3>
+
+        <h4>Offerta simbolica</h4>
+        <p id="offerta"></p>
+
+        <h4>Significato</h4>
+        <p id="descrizione"></p>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
