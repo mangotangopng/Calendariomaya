@@ -1,0 +1,163 @@
+const nahuales = [
+
+{
+nome:"B'ATZ",
+animale:"Scimmia",
+offerta:"Offri del cioccolato.",
+descrizione:"B'ATZ è un giorno di festa, per questo siamo invitati ad offrire del cioccolato. B'ATZ è infatti il primo giorno del calendario, rappresenta l'inizio, il tempo, l'arte e l'amore. Questo nahual invita ad avere pensieri puri e creare.",
+immagine:"images/batz.jpg"
+},
+
+{
+nome:"E",
+animale:"Gatto selvatico",
+offerta:"Offri un pizzico di farina.",
+descrizione:"Gli antichi maya offrivano la farina prima di mettersi in viaggio. E rappresenta l'apertura del cammino. Favorisce la scelta e offre sogni e segnali che indicano la via e ci invita a stare in ascolto.",
+immagine:"images/e.jpg"
+},
+
+{
+nome:"AJ",
+animale:"Armadillo",
+offerta:"Scegli e offri un nastro colorato.",
+descrizione:"Questo nastro colorato vuole ricordarti di usare saggiamente il tuo potere. AJ rappresenta abbondanza, forza e potere. Invita ad usare la propria forza al servizio degli altri e a risolvere i conflitti.",
+immagine:"images/aj.jpg"
+},
+
+{
+nome:"I'X",
+animale:"Giaguaro",
+offerta:"Offri un pizzico di zucchero.",
+descrizione:"I'X invita ad offrire essenze dolci generate dalla terra. Questo nahual rappresenta stabilità, forza della madre terra e guarigione. Invita a lasciare andare ciò che appesantisce la nostra vita, le abitudini e i condizionamenti negativi.",
+immagine:"images/ix.jpg"
+},
+
+{
+nome:"TZ'IKIN",
+animale:"Aquila",
+offerta:"Offri una semente.",
+descrizione:"Il seme simboleggia ricchezza e abbondanza. TZ'IKIN rappresenta ricchezza e prosperità spirituale. Invita a seguire i propri sogni e ad estendere i propri limiti per raggiungere l'abbondanza spirituale.",
+immagine:"images/tzikin.jpg"
+},
+
+{
+nome:"AJMAQ",
+animale:"Ape",
+offerta:"Offri un petalo di fiore come simbolo di pace.",
+descrizione:"AJMAQ rappresenta la pace e la riconciliazione con il cosmo. Insegna che il tempo è la coesistenza di presente, passato e futuro. Invita a metterci in ascolto, a risolvere i conflitti e a perdonare.",
+immagine:"images/ajmaq.jpg"
+},
+
+{
+nome:"NO'J",
+animale:"Picchio",
+offerta:"Offri un pizzico di farina di mais.",
+descrizione:"Secondo gli antichi maya l'essere umano è stato creato con fango e mais. NO'J rappresenta l'interezza del cosmo e invita ad offrire farina di mais per riconnetterci alle nostre antiche origini.",
+immagine:"images/noj.jpg"
+},
+
+{
+nome:"TIJAX",
+animale:"Tucano",
+offerta:"Offri un seme di cacao.",
+descrizione:"Il cacao per gli antichi maya era considerato sacro, il cibo degli dei. TIJAX rappresenta guarigione fisica e spirituale e liberazione da ogni male.",
+immagine:"images/tijax.jpg"
+},
+
+{
+nome:"KAWOQ",
+animale:"Tartaruga",
+offerta:"Offri un piccolo cristallo di quarzo bianco.",
+descrizione:"KAWOQ è il nahual associato al fulmine e alla luce che illumina l'oscurità. Invita a trovare equilibrio e pienezza e a mettere ordine nelle situazioni di potere.",
+immagine:"images/kawoq.jpg"
+},
+
+{
+nome:"AJPU",
+animale:"Lumaca",
+offerta:"Offri un rametto di un albero.",
+descrizione:"AJPU rappresenta l'essenza del guerriero, la grandezza e la forza. Invita ciascuno di noi a ricordarci che possiamo combattere e vincere le sfide che incontriamo sul nostro destino.",
+immagine:"images/ajpu.jpg"
+},
+
+{
+nome:"IMOX",
+animale:"Delfino",
+offerta:"Offri dell'acqua.",
+descrizione:"Quando nella vita c'è rinsecchimento e aridità questo nahual consola e stimola ad andare avanti. IMOX rappresenta guarigione, fiducia nel divenire e nello scorrere del tempo.",
+immagine:"images/imox.jpg"
+},
+
+{
+nome:"IQ'",
+animale:"Colibrì",
+offerta:"Offri una conchiglia.",
+descrizione:"Avvicinando l'orecchio ad una conchiglia si può ascoltare il rumore del mare e del vento. IQ' rappresenta il vento e la comunicazione. Invita a stare in ascolto e ad usare saggiamente il dono della parola.",
+immagine:"images/iq.jpg"
+},
+
+{
+nome:"AQ'AB'AL",
+animale:"Pappagallo",
+offerta:"Offri un filo d'erba raccolto questa mattina.",
+descrizione:"AQ'AB'AL incarna l'essenza del sogno, delle intuizioni profonde e dell'alba. Regala speranza e invita a confidare nella luce dentro di noi.",
+immagine:"images/aqabal.jpg"
+},
+
+{
+nome:"K'AT",
+animale:"Ragno",
+offerta:"Offri del filo intrecciato.",
+descrizione:"K'AT ricorda che tutto esiste in un intreccio di relazioni. Questa rete ci sostiene ma rischia anche di intrappolarci. Invita a costruire relazioni sane e a prestare attenzione alle persone attorno a noi.",
+immagine:"images/kat.jpg"
+},
+
+{
+nome:"KAN",
+animale:"Serpente piumato",
+offerta:"Offri una scheggia di corteccia.",
+descrizione:"KAN incarna l'energia creatrice dell'universo, l'evoluzione umana, lo sviluppo dello spirito e la forza vitale. Invita al cambiamento e a fidarsi dello scorrere del tempo.",
+immagine:"images/kan.jpg"
+},
+
+{
+nome:"KAME",
+animale:"Gufo",
+offerta:"Offri dei chicchi di mais.",
+descrizione:"KAME è il nahual della morte e della trasformazione. Nascere, divenire e morire sono momenti dello stesso ciclo. Invita a riflettere sul nostro passato e sulle nostre origini.",
+immagine:"images/kame.jpg"
+},
+
+{
+nome:"KEJ",
+animale:"Cervo",
+offerta:"Offri petali di fiori.",
+descrizione:"KEJ rappresenta l'equilibrio dopo le trasformazioni. Aiuta a ritrovare il proprio centro quando si perde il senso della direzione. Invita a indagare la realtà e a fidarsi dei buoni consigli.",
+immagine:"images/kej.jpg"
+},
+
+{
+nome:"Q'ANIL",
+animale:"Coniglio",
+offerta:"Offri piccoli semi.",
+descrizione:"Q'ANIL rappresenta la vita, la creazione e la nascita. I semi sono simbolo della vita che può nascere. Invita a confidare nella propria creatività e ad iniziare nuovi progetti.",
+immagine:"images/qanil.jpg"
+},
+
+{
+nome:"TOJ",
+animale:"Squalo",
+offerta:"Offri semi di baobab.",
+descrizione:"TOJ rappresenta l'essenza del fuoco creatore e del sole. Invita a guardare alla propria vita con gratitudine. Il fuoco di TOJ libera da infermità fisiche e mentali.",
+immagine:"images/toj.jpg"
+},
+
+{
+nome:"TZ'I'",
+animale:"Lupo",
+offerta:"Offri una piccola preghiera, una parola o un pensiero scritti da te.",
+descrizione:"TZ'I' incarna la legge, la giustizia, l'autorità e la parola. La parola ha una grande forza, può creare e distruggere. Questo nahual invita ad usarla con saggezza.",
+immagine:"images/tzi.jpg"
+}
+
+];
